@@ -1,0 +1,6 @@
+from typing import ForwardRef
+#program temperature converter
+celsius =float(input("Enter temp in celsius"))
+faren=(celsius*9/5)+32
+print("temperature in faren",faren)
+
