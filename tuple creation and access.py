@@ -1,0 +1,6 @@
+my_tuple = (10, 20, 30, 40, 50)
+print("First element:", my_tuple[0])  
+print("Second element:", my_tuple[1])  
+print("Third element:", my_tuple[2])   
+print("Fourth element:", my_tuple[3])  
+print("Fifth element:", my_tuple[4])  
